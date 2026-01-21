@@ -1,0 +1,4 @@
+- What works - timestamp each component that is listed under "what works"
+- What's left to build in current release
+- Current status
+- Known issues

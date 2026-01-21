@@ -1,0 +1,5 @@
+- Current work focus
+- Recent changes
+- Active decisions and considerations
+- Important patterns and preferences for getting work done
+- Learnings and project insights
