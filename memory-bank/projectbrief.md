@@ -19,7 +19,7 @@ This module sits at the heart of the application, focused on saving time in gath
 - **Artifact Ingestion:** Aggregates LinkedIn profiles, legacy resumes, and personal project files into a comprehensive "Master Profile".
 - **Technical Activity Synthesis:** Scans locally accessible GitHub commit logs and message archives (Discord/Slack) to extract evidence of technical problem-solving.
 - **Credential Integration:** Pulls data from personal learning platforms (Udemy, Coursera) to ensure competencies are indexed without requiring employer-side access.
-- Achievement Translation:** Uses local inference to translate unstructured logs into result-oriented bullet points that emphasize specific outcomes.
+- **Achievement Translation:** Uses local inference to translate unstructured logs into result-oriented bullet points that emphasize specific outcomes.
 
 ### B. Tailoring Engine (Target Engine)
 A data-centric matching process that aligns the user's history with their chosen job postings
