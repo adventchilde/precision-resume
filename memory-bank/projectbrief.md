@@ -10,15 +10,6 @@ The modern job hunt has turned into a battle against invisible gatekeepers. For 
 
 ## PROJECT SCOPE
 # Project Scope: Precision Resume
-
----
-
-## 1. Executive Summary
-
-The modern job hunt has turned into a battle against invisible gatekeepers. For most professionals, the traditional resume has become a static document that quickly gets lost in a sea of automated filters and keyword-scanning software. This shift has created a climate where candidates feel forced to "beat the bot" rather than highlight their true potential. While tailoring a resume for every specific role is the only way to stand out, the process is often too slow, too manual, and requires marketing skills that most people simply don't have.
-
-**Precision Resume** changes this dynamic by turning a professional's history into a powerful, automated data asset. By pulling from a **Career Data Lake** of real work—including code logs, project messages, and LinkedIn profiles—the platform builds a deep library of professional impact. When it’s time to apply, a high-speed **Tailoring Engine** and a guided **Articulation Wizard** turn that raw data into a hyper-tailored submission that is both honest and compelling. Instead of generic blasts, this approach delivers a custom, verified resume for every position, making it easier for top talent to finally get noticed.
-
 ---
 
 ## Core Functional Scope
