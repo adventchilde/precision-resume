@@ -15,7 +15,7 @@ The modern job hunt has turned into a battle against invisible gatekeepers. For 
 ## Core Functional Scope
 
 ### A. Career Data Lake (Context Archive)
-This module shifts the value proposition from "access to AI" to "privacy and control" by establishing a localized repository of professional artifacts.
+This module sits at the heart of the application, focused on saving time in gathering the user's experience.
 - **Artifact Ingestion:** Aggregates LinkedIn profiles, legacy resumes, and personal project files into a comprehensive "Master Profile".
 - **Technical Activity Synthesis:** Scans locally accessible GitHub commit logs and message archives (Discord/Slack) to extract evidence of technical problem-solving.
 - **Credential Integration:** Pulls data from personal learning platforms (Udemy, Coursera) to ensure competencies are indexed without requiring employer-side access.
